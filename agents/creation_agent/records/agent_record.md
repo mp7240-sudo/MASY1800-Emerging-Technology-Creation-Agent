@@ -2,7 +2,8 @@
 
 Use the Word template in `docs/` or record the same information here.
 
-- Repository / branch / commit:
+- Repository / branch / commit: https://github.com/mp7240-sudo/MASY1800-Emerging-Technology-Creation-Agent / main / a73e717
+
 - Agent / assignment:
 - General ET finding: LLM-based generative AI conversational assistants emerged through a cumulative evolution rather than a single invention. Key predecessor capabilities include the Transformer architecture, large-scale pretrained language modeling, scaling of model/data/compute, and later instruction tuning and reinforcement learning from human feedback. These developments created flexible natural-language interaction and task adaptation, while retaining an inherited limitation: fluent probabilistic generation does not guarantee factual correctness or reliable domain-specific judgment.
 
